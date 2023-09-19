@@ -1,0 +1,6 @@
+[submodule "Laravel10_VueJs3_Part_Laravel"]
+	path = Laravel10_VueJs3_Part_Laravel
+	url = https://github.com/nqtruongg/Laravel10_VueJs3_Part_Laravel.git
+[submodule "Laravel10_VueJs3_Part_Vue"]
+	path = Laravel10_VueJs3_Part_Vue
+	url = https://github.com/nqtruongg/Laravel10_VueJs3_Part_Vue.git
